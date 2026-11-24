@@ -2,7 +2,7 @@
   "client_id": "https://hprades.github.io/CueTV_releases/bingers-client.json",
   "client_name": "CueTV",
   "redirect_uris": ["https://github.com/hprades/CueTV_releases"],
-  "grant_types": ["urn:ietf:params:oauth:grant-type:device_code", "refresh_token"],
+  "grant_types": ["authorization_code", "urn:ietf:params:oauth:grant-type:device_code", "refresh_token"],
   "response_types": ["code"],
   "token_endpoint_auth_method": "none"
 }
