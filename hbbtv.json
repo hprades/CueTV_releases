@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-11-28",
+  "channels": {
+    "324": "http://apptv.ccma.cat/iptv/hbbtv/current/324/",
+    "33": "http://apptv.ccma.cat/iptv/hbbtv/current/sx3/",
+    "3catinfo": "http://apptv.ccma.cat/iptv/hbbtv/current/324/",
+    "antena3": "https://hbbtv.atresmedia.com/hbbtv-proxy/index.html?ch=149&c=antena3&analytics=atresmedia&target=origin&mode=hook",
+    "apunt": "https://hbbtv.apuntmedia.es/",
+    "atreseries": "http://hbbtv.atresmedia.com/atreseries/",
+    "bemad": "https://hbbtv.mitele.es/index.xhtml",
+    "boing": "https://hbbtv.mitele.es/index.xhtml",
+    "clan": "http://hbbtv.rtve.es/hbbtv/redbutton/launcher/app/v2.10.1/index.html?mode=gancho%26c=505",
+    "cuatro": "https://prelauncher.hbbtv.mediaset.es/pro1/index.html?h=20261030075532&env=pro1&c=6&cse=21",
+    "divinity": "https://hbbtv.mitele.es/index.xhtml",
+    "energy": "https://hbbtv.mitele.es/index.xhtml",
+    "esport3": "http://apptv.ccma.cat/iptv/hbbtv/current/esport3/",
+    "fdf": "https://hbbtv.mitele.es/index.xhtml",
+    "la1": "http://hbbtv.rtve.es/hbbtv/redbutton/launcher/app/v2.10.1/index.html?mode=gancho%26c=3",
+    "la2": "http://hbbtv.rtve.es/hbbtv/redbutton/launcher/app/v2.10.1/index.html?mode=gancho%26c=4",
+    "lasexta": "https://hbbtv.atresmedia.com/hbbtv-proxy/index.html?ch=151&c=lasexta&analytics=atresmedia&target=origin&mode=hook",
+    "sx3": "http://apptv.ccma.cat/iptv/hbbtv/current/sx3/",
+    "sx333": "http://apptv.ccma.cat/iptv/hbbtv/current/sx3/",
+    "telecinco": "https://prelauncher.hbbtv.mediaset.es/pro1/index.html?h=20261030075532&env=pro1&c=5&cse=11",
+    "tv3": "http://apptv.ccma.cat/iptv/hbbtv/current/tv3/"
+  }
+}
